@@ -22,15 +22,11 @@ MonoBehaviour:
     keys:
     - _MixedRealityToolkit_Editor_ConfiguratorState
     - MixedRealityToolkit_Editor_AudioSpatializerCount
-<<<<<<< HEAD:Assets/MixedRealityToolkit.Generated/ProjectPreferences.asset
 <<<<<<< HEAD
     values: 0000000002000000
 =======
     values: 9600000002000000
 >>>>>>> 9cd1bd14af4faaa6d40423b2b79e045d342c069c
-=======
-    values: 9001000002000000
->>>>>>> 149f908379b9158d52325310cfcf9d160ca1807d:Assets/MRTK/MixedRealityToolkit.Generated/ProjectPreferences.asset
   floatPreferences:
     keys: []
     values: []
